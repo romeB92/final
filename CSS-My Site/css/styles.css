@@ -1,0 +1,217 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  color: #40514E; 
+}
+
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Lobster', cursive;
+  font-size: 5.625rem; 
+  color: #66BFBF;
+	
+}
+
+h2{
+  font-family: 'Roboto', sans-serif;
+  font-size: 2.5rem;
+	color: #66BFBF;
+	font-weight: normal; 
+	padding-bottom: 10px; 
+}
+h3{
+  font-family: 'Roboto', sans-serif;
+	color: #11999E; 
+}
+
+hr{
+	border: dotted #EAF6f6 6px;
+	border-bottom: none;
+	width:4%; 
+	margin: 100px auto;
+}
+
+
+a{
+	color: #11999e;
+	font-family: 'Roboto', sans-serif;
+	margin: 10px 10px; 
+	text-decoration: none;
+	
+}
+a:hover{
+	color: #EAf6f6;
+}
+p{
+margin: auto;
+width: 60%;
+border: 5px;
+padding: 20px 40px;
+}
+
+
+
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+  background-color: #30e3cb;
+  color: white;
+  margin: 25px; 
+  padding: 15px 30px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+	font-family: 'Roboto', sans-serif;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+  background-color: #2bc48d;
+}
+
+.intro{
+	width:30%;
+	line-height: 2;
+	text-align: center;
+	margin: 50px auto 50px auto;
+	
+}
+.topnav-right {
+  float: left;
+ position: absolute;
+  right: 300px;
+  top: 50px;
+	font-size: 110%; 
+}
+
+.get-in-touch {
+	width:40%;
+	margin: auto;
+	line-height: 2;
+	
+}
+
+/* Add a background color and some padding around the form */
+
+.skill-row{
+	width: 50%;
+	margin:50px auto 100px auto;
+	text-align: left;
+	line-height: 2;
+	
+}
+
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+	padding-bottom: 50px;
+	
+}
+.middle-container{
+	margin: 100px 0;
+
+}
+.bottom-container{
+background-color: #99bfbf;
+	padding: 50px 0 20px;
+	
+
+}
+.copyright{
+	color: #EAF6F6;
+	font-size: 0.75rem;
+	padding: 20px 0;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left:300px;
+  bottom: 300px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 100px;
+}
+h1.work{
+  font-size: 75px;
+  font-family: 'Roboto', sans-serif;
+}
+h2.work-p{
+	font-size: 30px;
+	
+}
+.work-top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 100px;
+
+	
+}
+
+.work-cloud-left {
+ position: absolute;
+  left:300px;
+  bottom: 100px;
+
+}
+.work-cloud-right{
+  position: absolute;
+  right: 300px;
+  top: 100px;
+}
+
+.skill{
+	float:left;
+	margin-right: 30px;
+	
+}
+.work-middle-container{
+	margin: 100px 0;
+}
+.web-des{
+	width:40%;
+	margin: auto;
+	padding: 20px 30px;
+	width:30%;
+	line-height: 2;
+	text-align: center;
+	
+}
+
+h1.about{
+	font-size: 75px;
+  font-family: 'Roboto', sans-serif;
+}
+.about-top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 50px;
+
+
+	
+}
+.about{
+	width:30%;
+	line-height: 3;
+	text-align: center;
+	margin: 50px auto 50px auto;
+	
+}
+.hWork{
+	width:30%;
+	line-height: 2;
+	text-align: center;
+	margin: 25px auto 25px auto;
+}
+.game-p{
+	width:30%;
+	line-height: 2;
+	text-align: center;
+	margin: 25px auto 25px auto;
+}
